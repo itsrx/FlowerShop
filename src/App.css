@@ -1,0 +1,138 @@
+body {
+  margin:0px;
+  height: 100%;
+  align-items: center;
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgimg-1 {
+  background-image: url(https://tqimg.idongde.com/d/2020/03/04/1583319564049734.jpg);
+  height: 100%;
+  border:none;
+}
+
+.bgimg-2 {
+  background-image: url(https://www.theknot.com/tk-media/images/8d7f9239-ddb5-47e7-8c81-eb39283c8262~rs_768.h);
+  height: 100%;
+  border:none;
+}
+
+.bgimg-3 {
+  background-image: url(https://www.theknot.com/tk-media/images/8d7f9239-ddb5-47e7-8c81-eb39283c8262~rs_768.h);
+  height: 100%;
+  border:none;
+}
+
+.bgimg-4 {
+  background-image: url(https://www.theknot.com/tk-media/images/8d7f9239-ddb5-47e7-8c81-eb39283c8262~rs_768.h);
+  height: 100%;
+  border:none;
+}
+
+.caption {
+  position: relative;
+  color:white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 500;
+  line-height: 54px;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.caption span.border {
+  padding: 18px;
+  font-size: 72px;
+  letter-spacing: 10px;
+}
+
+img {
+  display: block;
+  margin:auto;
+  border-radius: 8px;
+  width: 50%;
+}
+
+p {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: 200;
+  margin: 5%;
+  }
+
+h2 {
+  text-align:center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: normal;
+  line-height: 27px;
+  text-transform: none;
+  color: #6E6E6E;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  font-weight: 200;
+}
+
+td {
+  padding: 15px;
+  text-align: center;
+}
+
+iframe {
+  margin-left: 40px
+}
+
+.button {
+  background-color: white;
+  border: 2px solid grey;
+  border-radius: 32px;
+  color: black;
+  letter-spacing: 2px;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: grey;
+  color:white;
+}
+
+.map {
+  -webkit-filter: grayscale(100%);
+     -moz-filter: grayscale(100%);
+      -ms-filter: grayscale(100%);
+       -o-filter: grayscale(100%);
+          filter: grayscale(100%);
+}
+
+footer {
+  display: block;
+  background-color: #b6d7a8;
+  color:white;
+  font-size: 18px;
+  padding: 64px;
+  margin-left: 0px;
+  text-align:center;
+  font-family: Lato, sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 27px;
+}
