@@ -1,3 +1,5 @@
+This project is for a flower shop web application. Currently, this project is currently unfinished, but I will be commiting more changes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
